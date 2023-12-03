@@ -1,2 +1,2 @@
-# ProjetoPPIM4AV
-Aula para exemplificar a utilização dos conceitos de sessão e cookies no desenvolvimento de aplicações WEB
+# ProjetoPPIM2formulario
+Projeto para exemplificar a manipulação dos parâmetros enviados ao servidor via formulario HTML 
